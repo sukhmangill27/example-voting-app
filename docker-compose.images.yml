@@ -66,4 +66,5 @@ volumes:
 
 networks:
   front-tier:
-  back-tier:
+    back-tier:
+
